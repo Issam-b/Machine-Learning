@@ -1,3 +1,10 @@
+SVM Spam Classification with SpamAssassin corpus
+
+   link: http://spamassassin.apache.org/publiccorpus/
+   
+   Spam list:  20050311_spam_2.tar.bz2
+   Ham list:   20030228_easy_ham.tar.bz2
+
 Training details:
 
 Emails count: 
