@@ -8,21 +8,21 @@
    
 * Some of the functins here have been obtained from Machine learning course in Coursera.
 
-Training details:
+* Training details:
 
-Emails count:
+** Emails count:
 
-Spam: 1396
+** Spam: 1396
 
-Ham: 2500
+** Ham: 2500
 
-Total: 3896 emails
+** Total: 3896 emails
 
 
-Train set: 60%
+** Train set: 60%
 
-Test: 20%
+** Test: 20%
 
-Training Accuracy:  99.743261
+* Training Accuracy:  99.743261
 
-Test Accuracy:      97.946085
+* Test Accuracy:      97.946085
