@@ -8,6 +8,8 @@
    
 * Some of the functins here have been obtained from Machine learning course in Coursera.
 
+
+
 * Training details:
 
    Emails count:
@@ -19,9 +21,14 @@
    Total: 3896 emails
 
 
+
+
 * Train set: 60%
 
    Test: 20%
+   
+   
+   
 
 * Training Accuracy:  99.743261
 
