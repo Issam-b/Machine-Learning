@@ -1,7 +1,8 @@
 Training details:
 
-Emails count: Spam: 1396
-              Ham: 2500
+Emails count: 
+Spam: 1396
+Ham: 2500
 Total: 3896 emails
 
 Train set: 60%
